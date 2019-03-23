@@ -27,7 +27,7 @@ onloadCSS(dereferedStyleSheet, () => {
 
 ```
 
-#### Options
+#### Options for loadCSS
 
 the function has 3 optional arguments.
 

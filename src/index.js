@@ -1,5 +1,3 @@
-/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
-/*! Modified for ES9 usage by pranjalk */
 /*! [c]2019 Pranjal Kumar MIT License  */
 
 /* global navigator */
