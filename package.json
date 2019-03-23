@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "gulp clean",
-    "build": "NODE_ENV=production babel src --out-dir dist"
+    "build": "npm run clean && NODE_ENV=production babel src --out-dir dist"
   },
   "repository": {
     "type": "git",
