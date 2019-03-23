@@ -1,6 +1,6 @@
 {
   "name": "defercss",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "defer css with callbacks",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://pranjalk@github.com/pranjalk/deferCSS.git"
+    "url": "git+https://github.com/pranjalk/deferCSS.git"
   },
   "keywords": [
     "CSS",
@@ -18,26 +18,23 @@
     "ES9",
     "HTML5"
   ],
-  "author": "pranjalkumar@outlook.in",
+  "author": "pranjalk.kr94@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pranjalk/deferCSS/issues"
   },
   "homepage": "https://github.com/pranjalk/deferCSS#readme",
-  "dependencies": {
+  "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
     "@babel/polyfill": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
-    "axios": "0.18.0",
-    "babel-plugin-add-module-exports": "0.2.1",
-    "gulp": "4.0.0",
-    "rimraf": "2.6.2"
-  },
-  "devDependencies": {
     "babel-eslint": "10.0.1",
+    "babel-plugin-add-module-exports": "0.2.1",
     "eslint": "5.15.2",
     "eslint-config-airbnb-base": "13.1.0",
-    "eslint-plugin-import": "2.16.0"
+    "eslint-plugin-import": "2.16.0",
+    "gulp": "4.0.0",
+    "rimraf": "2.6.2"
   }
 }
