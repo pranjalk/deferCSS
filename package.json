@@ -1,0 +1,25 @@
+{
+  "name": "defercss",
+  "version": "0.0.1",
+  "description": "defer css with callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pranjalk@github.com/pranjalk/deferCSS.git"
+  },
+  "keywords": [
+    "CSS",
+    "defer",
+    "ES9",
+    "HTML5"
+  ],
+  "author": "pranjalkumar@outlook.in",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranjalk/deferCSS/issues"
+  },
+  "homepage": "https://github.com/pranjalk/deferCSS#readme"
+}
